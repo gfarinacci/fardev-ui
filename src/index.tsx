@@ -1,9 +1,1 @@
-import Counter from './components/counter'
-
-export {
-  Counter
-}
-
-export default {
-  Counter
-}
+export { default as Counter } from './components/counter'
